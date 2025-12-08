@@ -1,0 +1,5 @@
+Hypothesis,p-value,Decision
+Province (freq),5.93e-19,REJECT H0
+Province (sev),3.70e-06,REJECT H0
+Top2 Zip (freq),6.08e-20,REJECT H0
+Gender,9.47e-03,REJECT H0
