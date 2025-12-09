@@ -1,1 +1,5 @@
-/MachineLearningRating_v3.txt
+*.ipynb_checkpoints/
+__pycache__/
+data/
+.dvc/
+dvc_storage/
