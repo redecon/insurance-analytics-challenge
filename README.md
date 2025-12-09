@@ -32,6 +32,7 @@ All four challenge tasks have been completed to the **highest professional stand
 ### Repository Structure
 
  ### Repository Structure
+ ```
 insurance-analytics-challenge/
 ├── data/raw/                  ← Raw dataset (DVC-tracked)
 ├── src/                       ← Modular Python code
@@ -41,7 +42,7 @@ insurance-analytics-challenge/
 ├── requirements.txt           ← Dependencies
 ├── .gitignore                 ← Clean exclusions
 └── README.md                  ← This file
-
+```
 ---
 
 ### Task 4 – Predictive Modeling Highlights
